@@ -1,24 +1,6 @@
-# README
+# mello-rails-api
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## What is this:
+Mello-rails-api is a Kanban board-style project management system, built with Ruby on Rails as well as HTML, CSS, JavaScript and JQuery. A fully functional database means your boards and changes persist between sessions. Features user validation and drag-and-drop functionality. To view the live version, visit https://frederic-hodges-mello.herokuapp.com/
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![Mello app screenshot](app/assets/images/mello-rails-capture.PNG "Mello app screenshot")
